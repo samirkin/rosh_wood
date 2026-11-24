@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://avento-wood-furniture-and-joinery.vercel.app/sitemap.xml
+Sitemap: https://roshwood.vercel.app/sitemap.xml
